@@ -3,7 +3,6 @@
 ---
 ## Auteurs
 - **[MADAD Walid](https://github.com/walidmadad)** 
-- **[Youssef El-Alaoui](https://github.com/youssef2510)**
 
 ---
 ## Description du Projet
